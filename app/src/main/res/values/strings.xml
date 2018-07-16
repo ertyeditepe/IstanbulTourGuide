@@ -1,0 +1,647 @@
+<resources>
+    <string name="app_name">Istanbul Tour Guide</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Istanbul Tour Guide</string>
+    <string name="nav_header_subtitle">istanbul@tour.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="topkapi">Topkapı Palace</string>
+    <string name="places_act">Places to visit</string>
+    <string name="foods_act">Istanbul Famous Foods</string>
+    <string name="malls_act">Istanbul Malls</string>
+    <string name="festivals_act">Istanbul Festivals</string>
+    <string name="topkapi_desc">Set on top the most visible hill of Istanbul, Topkapi Palace, is the symbol of the city. Opulent, decadent and steeped in history,
+        it offers visitors a chance to get to know the Sultans of the Ottoman Empire rather more intimately.
+It was built in 1461 by Mehmet the Conqueror and remained both the symbolic and political home of the Ottoman Empire until Sultan Abdülmecid I moved the imperial
+        retinue to Dolmabahçe Palace in 1853. During the four centuries in between it hosted 22 different Sultans and their families.</string>
+    <string name="ayasofya">Hagia Sophia</string>
+    <string name="ayasofya_desc">The Hagia Sophia had been a church for 916 years, a mosque for 481 years and since 1934, it is playing the character of a museum.
+        It has a history that can, at best be described as being unique.
+The Hagia Sofia had its beginnings in a humble looking wooden roofed basilica way back in 390 A.D. The church was dedicated to Hagia Sophia or the Divine Wisdom.
+        The church, then known as Megale Ecclesia or The Great Church, was burnt and reduced to rubble in 404 A.D.
+At its site, Theodosius built an even bigger church. This building was again destroyed in the Nika Revolt of 532 A.D against Emperor Justinian. Under his orders,
+        and supervised by architects Anthemius of Tralles and Isidorus of Miletus, the Hagia Sophia began to be rebuilt in that year itself.
+The Fourth Crusade of 1204 saw the plunder of the Hagia Sophia. The iconoclastic crusaders systematically eradicated all images with religious connotations from
+        the Hagia Sophia.
+1453 was a watershed year in the already battered history of Hagia Sophia. Sultan Mehmet, after winning over Constantinople, in the year 1453, ordered the Hagia Sophia
+        to be turned into a mosque.
+Hagia Sophia, or, The Church of the Divine Wisdom, thus began its metamorphosis into a mosque.
+Minarets, from which the summon cries for the daily prayers are issued; the Mihrab, an alcove in the wall facing Mecca and the member, which is a platform for the
+        rendering of sermons, were the typically Islamic additions to the Hagia Sophia. Eight wooden plates bearing Islamic calligraphy are amongst other such add-ons.
+The next five centuries did not witness any major makeovers for the Hagia Sophia, until 1934, when the erstwhile Turkish President Mustafa Kemal Ataturk ordained
+        that it be henceforth turned into a museum, open to all and sundry.
+Through the Byzantine history, the Hagia Sophia stood witness to numerous coronation and victory ceremonies. It has also sheltered many a fugitive and criminal.
+Known as Sancta Sophia in Latin and Ayasofya in Turkish, the Hagia Sophia is one of the greatest buildings in the world. It had a tumultuous past, being ravaged by
+        fires, riots and earthquakes apart from undergoing frequent transformations in character. It has endured all and today, stands tall as the most abiding
+        symbol of Istanbul`s skyline.</string>
+    <string name="sultan_ahmet">Blue Mosque</string>
+    <string name="sultan_ahmet_desc">
+        The Blue Mosque (Called Sultanahmet Camii in Turkish) is an historical mosque in Istanbul. The mosque is known as the Blue Mosque because of blue tiles
+        surrounding the walls of interior design.Mosque was built between 1609 and 1616 years, during the rule of Ahmed I. just like many other mosques, it
+        also comprises a tomb of the founder, a madrasa and a hospice.Besides still used as a mosque, the Sultan Ahmed Mosque has also become a popular tourist
+        attraction in Istanbul.
+Besides being tourist attraction, it\'s also a active mosque, so it\'s closed to non worshippers for a half hour or so during the five daily prayers.
+Best way to see great architecture of the Blue Mosque is to approach it from the Hippodrome. (West side of the mosque) As if you are non-Muslim visitor,
+        you also have to use same direction to enter the Mosque.  ​​
+Please ignore and avoid people who offer you to enter mosque without  queue up. Those people mostly will try to sell you something and take you to the some
+        shopping place. Best way is to line up and enter Mosque just like other tourists. Don't worry if line looks very long, it will move very fast for sure.
+    </string>
+    <string name="gulhane">Gulhane Park</string>
+    <string name="gulhane_desc">Gülhane Park (meaning “House of Roses Park” in Turkish) is the oldest urban park of Istanbul and it is also one of the largest
+        parks of İstanbul. Adjacent to the Topkapı Palace, for centuries the park served as the outer garden of the Ottoman imperial palace - Topkapı Palace - and
+        was not open to the public.
+Until 1912, Gülhane Park was an imperial park, yet it was opened to the public in 1912. Since 1912, it serves as an urban park with its hundreds years old walnut
+        and oak trees. Do not miss this magnificent park surrounded with the most important museums and monuments of Istanbul.</string>
+    <string name="galata_kulesi">Galata Tower</string>
+    <string name="galata_kulesi_desc">The Galata Tower, Galata Kulesi in Turkish, is one of the highest and oldest towers of Istanbul. 63 meter (206 feet) high
+        tower provides a panoramic view of the old town. It was built in the 14th century by the Genoese colony as part of the defense wall surrounding their
+        district at Galata directly opposite ancient Constantinopolis. They called the tower as "Christea Turris", or "Tower of Christ". The Genoese were
+        involved in trade with the Byzantines and the tower was used for the surveillance of the Harbor in the Golden Horn. After the conquest of
+        Constantinople by Mehmet II, it served to detect fires in the city.
+Hezarfen Ahmet Celebi was the first flying Turk during the Ottoman Empire of the 17th century. He copied bird wings and studied air flows, than jumping
+        from the Galata Tower he overflew the Bosphorus and landed at Uskudar district on the Asian side, around 6 kilometers (4 miles) in distance.
+After the Republic, Galata Tower was restored and opened to the public in 1967. The tower houses a cafeteria on top, there was also a night club which
+        is closed down after the last restoration in 2013. A couple of elevators will take you up but there are still three more floors to climb by
+        stairs to get on the panoramic terrace which is 52 meters above the ground. A small souvenir shop is located inside the tower just across the
+        ticket office at the entrance level.
+Galata Kulesi (Tower)
+Büyük Hendek Caddesi, Galata
+Phone: +90 212 293 81 80
+Fax: +90 212 245 21 33
+Open daily from early morning until late afternoon
+Admission: 25 TL</string>
+    <string name="rumeli">Rumeli Castle</string>
+    <string name="rumeli_desc">Rumeli Castle (Rumeli Hisarı) is an Ottoman fortress dating to 1452. It was built by Ottoman sultan Mehmed II
+        (Mehmed the Conqueror) in preparation of the conquest of Constantinople. The castle is situated on the shore of the Bosphorus Strait
+        at its narrowest point with approximately 660 meters. It is just opposite of Anadolu Castle (Anadolu Hisarı) that is another Ottoman
+        castle built in 1394 by Bayezid I. Both Anadolu Castle and Rumeli Castle were built by Ottoman sultans in order to prevent military
+        and economic aid to the Byzantine Empire coming from the north, Black Sea. Thus, Bosphorus strait connects Black Sea with Marmara Sea.
+Rumeli Castle consists of three large towers, one small tower, and thirteen smaller towers, which all are in very good condition. The architect
+        of the castle was architect Müslihiddin and by the time it was built, its name was Boğazkesen (Strait Cutter).</string>
+    <string name="ciragan">Ciragan Palace</string>
+    <string name="ciragan_desc">The palace, built by Sultan Abdülâziz, was designed by the Armenian palace architect Nigoğayos Balyan
+        and constructed by his sons Sarkis and Hagop Balyan between 1863 and 1867, during a period in which all Ottoman sultans built
+        their own palaces rather than using those of their ancestors; Çırağan Palace is the last example of this tradition. The inner
+        walls and the roof were made of wood, the outer walls of colorful marble. A beautiful marble bridge connects the palace to
+        the Yıldız Palace on the hill behind. A very high garden wall protects the palace from the outer world.
+The construction and the interior decoration of the palace continued until 1872. Sultan Abdülâziz did not live long in his magnificent
+        palace - he was found dead inside on May 30, 1876, shortly after he was dethroned. His successor, his nephew Sultan Murad V,
+        moved into Çırağan Palace, but reigned for only 93 days. He was deposed by his brother Abdülhamid II due to alleged mental
+        illness and lived there under house arrest until his death on August 29, 1904.
+During the Second Constitutional Monarchy, Sultan Mehmet V Reşat allowed the parliament to hold their meetings in this building. Only two
+        months after, on January 19, 1910, a great fire destroyed the palace, leaving only the outer walls intact. Called "Şeref Stadı",
+        for many years it served as a football stadium for the club Beşiktaş J.K..
+In 1989, the ruined palace was bought by a Japanese corporation, which restored the palace and added a modern hotel complex next to it
+        in its garden. Today, it serves as luxury suites for the five-star Kempinski hotel along with two restaurants that cater to guests.
+The Palace was renovated again during the first quarter of 2007, now resembling the authentic palace with the baroque style and soft colors.</string>
+    <string name="kapali_carsi">Grand Bazaar</string>
+    <string name="kapali_carsi_desc">The colourful and chaotic Grand Bazaar is the heart of İstanbul\'s Old City and has been so for centuries.
+        Starting as a small vaulted bedesten (warehouse) built by order of Mehmet the Conqueror in 1461, it grew to cover a vast area as lanes
+        between the bedesten, neighbouring shops and hans (caravanserais) were roofed and the market assumed the sprawling, labyrinthine form
+        that it retains today.When here, be sure to peep through doorways to discover hidden hans, veer down narrow lanes to watch artisans at
+        work and wander the main thoroughfares to differentiate treasures from tourist tack. It's obligatory to drink lots of tea, compare
+        price after price and try your hand at the art of bargaining. Allow at least three hours for your visit; some travellers spend three days!</string>
+    <string name="anadolu_hisari">Anatolian Fortress</string>
+    <string name="anadolu_hisari_desc">Located in Istanbul, Turkey on the Anatolian (Asian) side of the Bosporus, which also gives its name
+        to the quarter around it, Anatolian Fortress (Anatolian Castle)  was built between 1393 and 1394 by the Ottoman sultan Bayezid I
+        “The Thunderbolt” to pass safely his army from Anatolia to Europe.
+Actually, that fortress was established to support the conquest of Istanbul by preventing the support from Black Sea, especially Trebizond
+        (the city of Black Sea) and to control traffic entering of other attacks from Venice and Genoa. Because except for Ottomans and
+        Byzantines, the other power states tried to take over upon that way in order to gain economic and politic power.</string>
+    <string name="suleymaniye">Süleymaniye Mosque</string>
+    <string name="suleymaniye_desc">The Süleymaniye crowns one of İstanbul\'s seven hills and dominates the Golden Horn, providing a
+        landmark for the entire city. Though it\'s not the largest of the Ottoman mosques, it is certainly one of the grandest and most
+        beautiful. It\'s also unusual in that many of its original külliye (mosque complex) buildings have been retained and sympathetically
+        adapted for reuse.Commissioned by Süleyman I, known as \'the Magnificent\', the Süleymaniye was the fourth imperial mosque built
+        in İstanbul and it certainly lives up to its patron\'s nickname. The mosque and its surrounding buildings were designed by
+        Mimar Sinan, the most famous and talented of all imperial architects. Sinan\'s türbe (tomb) is just outside the mosque\'s
+        walled garden, next to a disused medrese (seminary) building.
+    Mosque
+The mosque was built between 1550 and 1557. Its setting and plan are particularly pleasing, featuring gardens and a three-sided forecourt with
+        a central domed ablutions fountain. The four minarets with their 10 beautiful şerefes (balconies) are said to represent the fact that
+        Süleyman was the fourth of the Osmanlı sultans to rule the city and the 10th sultan after the establishment of the empire.
+In the garden behind the mosque is a terrace offering lovely views of the Golden Horn and Bosphorus. The street underneath once housed the
+        mosque complex's arasta (street of shops), which was built into the retaining wall of the terrace. Close by was a five-level mülazim
+        (preparatory school).</string>
+    <string name="fener_balat">Fener Balat</string>
+    <string name="fener_balat_desc">Boat Ride to Fener Port: We will take a private fishing boat from Karaköy to Fener just like the olden days.
+        The ride takes about 25 minutes and is a joy in itself as you get to take in one of the best views of Istanbul with mosques, churches and
+        the old city walls on one side and the Galata tower and abandoned military shipyards on the other.
+Ecumenical Orthodox Patriarchy: We visit Greek Orthodox Patriarchate Church (the Church of St. George) that has been active and open for service
+        since the 1600s. Here you will see a stunning iconostasis as well as holy relics of the Church of Constantinople, including the sacred relics
+        of two renowned Archbishops of Constantinople.
+Phanar Greek Orthodox College: Another special example of the Greek heritage is this college, known locally known as the red school. This extraordinary
+        red brick building is an iconic piece of Istanbul architecture.
+Discover Balat: This neighborhood was historically home for the Jewish community of the city and now a multi-cultural community inhabits the area. In
+        Balat, we will stroll through the narrow and colorful streets, which have a movie set feel. A traditional daily street life still exists in this
+        part of town; women gathering for tea on their patios, kids kicking balls around the streets, men playing cards in coffee-houses.
+Lunch in Balat: There are numerous good foodie options in Balat, ranging from bohemian cafés to traditional men-only tea houses. A sufi coffee-house,
+        also a platform for reaching out to those in need makes an interesting stop for anyone interested in Sufi philosophy and Rumi’s teachings.
+        Alternatively, we can organize a sit-down lunch at the beautiful garden of Asitane, a famous restaurant specializing in Ottoman palace cuisine.
+Visit Chora Museum: Next, we pay a visit to the world-famous Chora Museum. Previously a church, this atmospheric museum contains fabulous examples
+        of Byzantine mosaics; depicting stories of the bible.
+Theodosian Land Walls  in Ayvansaray: The day will end with a walk towards the old city walls in Ayvansaray. The walls protected the city from invasion
+        for a thousand years before being penetrated in the siege of 1453. We’ll also visit the ruins of the last standing Byzantine palace in the world;
+        Tekfur Palace. </string>
+    <string name="emirgan">Emirgan Park</string>
+    <string name="emirgan_desc">North of the Fatih Bridge on the European shore of the Bosphorus, 13 km (8 miles) northeast of Taksim Square,
+        is Emirgan (map), one of Istanbul\'s many villages on the Bosphorus.
+Traditionally known for its fine, large forested garden park called the Emirgan Korusu, since 1998 it has also been known for the Sakıp Sabancı Museum,
+        a superb private collection of paintings, calligraphy and other artwork assembled by the late Mr Sakıp Sabancı, scion of the Sabancı family
+        industrial and commercial empire.Want to get away from the city? Especially in April, when Istanbul\'s annual Tulip Festival is under way,
+        the Emirgan Korusu (Emirgan Park) is the perfect place for a stroll, a picnic, some relaxation, a light meal, coffee or tea
+        (no alcoholic beverages served).
+Once the Istanbul estate of Khedive İsmail Pasha of Egypt (reigned 1863-1879), it was deeded to the Istanbul Municipality in the 1940s.
+The Khedive (king) of Egypt built several villas in the park which still exist and serve as restaurants, cafés and meeting spaces. Best known is the
+        Sarı Köşk (Yellow Kiosk), an Ottoman-Victorian gingerbread confection with a menu of snacks, light meals and non-alcoholic drinks, an open-air
+        terrace, and fine Bosphorus views.</string>
+    <string name="yerebatan">Basilica Cistern</string>
+    <string name="yerebatan_desc">In the Depths of History
+One of the magnificent ancient buildings of İstanbul is the Basilica Cistern located in the southwest of Hagia Sofia. Constructed for Justinianus I,
+        the Byzantium Emperor (527-565), this big underground water reservoir is called as “Yerebatan Cistern” among the public because of the underground
+        marble columns. As there used to be a basilica in the place of the cistern, it is also called Basilica Cistern.
+The cistern is 140 m long, and 70 m wide, and covers a rectangular area as a giant structure. Accessible with 52-step staircase, the Cistern shelters
+        336 columns, each of which is 9 m high. Erected at 4.80 m intervals from one another the columns are composed of 12 rows, each has 28 columns.
+        The case-bay of the cistern is conveyed by the columns through arches. Majority of the columns, most of which is understood to have been
+        compiled from the ancient structures and sculpted of various kinds of marbles, is composed of a single part and one of it is composed of
+        two parts. The head of these columns bear different features in parts. 98 of them reflect the Corinthian style and part of them reflect
+        the Dorian style. The cistern has 4.80 m high brick walls, and the floor is covered by bricks, and plastered by a thick layer of brick dust
+        mortar for water tightness. Covering 9,800 sqm area in total, the cistern has an estimated water storage capacity of 100,000 tons.
+Medusa Heads
+Except couple of the edged and grooved columns of the cistern, majority of them are shaped as a cylinder. Two Medusa heads, which are used as supports
+        under the two columns at the northwest edge of the cistern, are the great work of art from the Roman period. What attracts most attention from
+        the visitors is that the structure from which the Medusa heads have been taken is unknown. The researchers often consider that it has been
+        brought for being used as supports to the column at the time of construction of the cistern.  However, this has not prevented myths for the
+        heads of Medusa.
+As the legend has it, Medusa is one of the three Gorgonas that are female monsters in the underground world in Greek mythology.  The snake-head Medusa,
+        one of the three sisters, has the power of gorgonising the ones that happen to look at her. Accordingly, Gorgone paintings and sculptures were
+        being used for protecting big structures and special venues in that time. And putting the head of medusa in the cistern was for protecting
+        purposes. According to another rumour, Medusa was a girl who boasted for her black eyes, long hair and beautiful body. She loved Perseus,
+        the son of Zeus. Athena was also in love with Perseus and this made Medusa jealous. Therefore, Athena converted medusa's hairs into snakes.
+        Now, everybody that happened to look at Medusa was gorgonised. Afterwards, Perseus headed off medusa and beat many enemies by using her power.</string>
+    <string name="yedikule">Yedikule Fortress</string>
+    <string name="yedikule_desc">Yedikule Fortress (Turkish: Yedikule Hisarı or Yedikule Zindanları; meaning "Fortress of the Seven Towers",
+        or "Dungeons of the Seven Towers", respectively) is a fortified historic structure located in the Yedikule neighbourhood of Fatih,
+        in Istanbul, Turkey.
+Built in 1458 on the commission of Ottoman Sultan Mehmed II, the seven-tower complex was created by adding three new towers and fully enclosing
+        a section of the ancient Walls of Constantinople, including the two twin towers that originally constituted the triumphal Golden Gate
+        (Turkish: Altınkapı) built by Byzantine Emperors Theodosius I and Theodosius II.
+The fortress came to be known as the home of a formidable royal dungeon that housed notable figures throughout its history, and the associated
+        intrigue captured the public's imagination over the centuries in various legends, stories, and the arts.</string>
+    <string name="adalar">Prince Islands</string>
+    <string name="adalar_desc">Büyükada (meaning "Big Island"; Greek: Πρίγκηπος, Prínkēpos) is the largest of the nine islands comprising the Princes\'
+        Islands in the Marmara Sea, close to Istanbul.
+As on the other islands, motorized vehicles – except service vehicles – are forbidden, so visitors explore the island by foot; by riding a bicycle
+        (numerous bicycle shops rent them with hourly prices); or in horse-drawn phaeton carriages which function like taxi cabs, also offering
+        "round-the-island" sightseeing tours.
+A convent on Büyükada was the place of exile for the Byzantine empresses Irene, Euphrosyne, Theophano, Zoe and Anna Dalassena. After his deportation
+        from the Soviet Union in February 1929, Leon Trotsky also stayed for four years on Büyükada, his first station in exile. Princess Fahrelnissa
+        Zeid was born on the island.
+There are several historical buildings on Büyükada, such as the Ayia Yorgi Church and Monastery dating back to the sixth century, the Ayios Dimitrios
+        Church, and the Hamidiye Mosque built by Abdul Hamid II. Büyükada consists of two peaks. The one nearest the iskele (ferry landing), Hristos,
+        is topped by the former Greek Orphanage, a huge wooden building now known as the Prinkipo Enviornmental Center.[6] In the valley between the
+        two hills sit the church and monastery of Ayios Nikolaos and a former fairground called Luna Park. Visitors can take the 'small tour' of the
+        island by buggy, leading to this point, from where it is an easy climb to Ayia Yorgi, a tiny church with a café on the grounds serving wine,
+        chips and sausage sandwiches, this being part of the "classic" Ayia Yorgi (St. George, in Greek: Άγιος Γεώργιος) experience.</string>
+    <string name="camlica">Çamlıca</string>
+    <string name="camlica_desc">Heybeliada (meaning "Saddlebag Island"; Greek: Χάλκη Chalki) is the second largest of the Princes\' Islands
+        in the Sea of Marmara. It is a neighbourhood in the Adalar district of Istanbul. The large Naval Cadet School overlooks the jetty
+        to the left as you get off the ferry. There are two interesting pieces of architecture on the grounds of the school. One is Kamariotissa,
+        the only remaining Byzantine church on the island, and more importantly the last church to be built before the conquest of Constantinople.
+        The other is the grave of the second English Ambassador to be sent to Constantinople by Elizabeth I of England, Edward Barton,
+        who chose to live on Heybeli to escape the bustle of the city.
+To the right of the jetty lies the town with its bars and cafes, a hotel that stays open all year round, and many lovely wooden houses.
+
+At the top of the central mountain is an eleventh-century Greek Orthodox monastery, it houses the Halki seminary, the only Greek Orthodox seminary
+        in Turkey and Theological Seminary of the Ecumenical Patriarchate closed by the Turkish Government in 1971, for no reason. The monastery attracts
+        tourists from all over Greece and Turkey, and despite the Turkish Government\'s promise to reopen the seminary, it still remains closed.
+
+To prevent the island from becoming polluted, the only motorized vehicles permitted on the island are service vehicles such as ambulances, fire trucks,
+        police cars, and the like. The only forms of transport are by foot, horse and buggy and service transport. There is no airport; the only way of
+        getting there is by boat.
+The winter population of the island is around 3,000, but in the summer, the owners of the summer houses return and the population swells to 10,000.
+        The main summer attractions are small-scale open-air concerts sponsored by the local council, a swimming and fitness club next to the sea,
+        and an annual Independence Day march, which is commemorated by a resident naval band touring the island.
+    Burgazada (meaning "Fortress Island"; Greek: Αντιγόνη, Antigoni) is the third largest of the Islands, a single hill 2 km across. Demetrius I of Macedon,
+        one of the Diadochi (Successors) of Alexander the Great, built a fort here and named it after his father Antigonus I Monophthalmus. The island
+        took this name, but today is generally known by the Turks simply as "Burgaz" (Turkish for "fort"). In 2003 Burgaz suffered a forest fire, losing
+        4 square kilometres of woodland.
+Burgaz is a common setting and even a major theme for writer Sait Faik Abasıyanık, where he also resided. Today, his residence is kept as a museum.
+        At his favourite restaurant in Kalpazankaya (the counterfeiter's rock) one will also find his bronze statue enjoying the view with a glass
+        of rakı freshly filled everyday by the restaurant owners. In modern times, Burgazada residents have been predominantly Jewish.</string>
+    <string name="pierre_loti">Pierre Loti</string>
+    <string name="pierre_loti_desc">The famous cafe entitled with the name of Pierre Loti, a famous French writer, is reached on getting to this ridge
+        on which the perfect view of Golden Horn can be watched.
+The real name of Pierre Loti, who lived in Istanbul for long years and was a real Istanbul lover, was Julien Viaud.The historical cafe is the most ideal
+        place to watch this mentioned view.
+It is said that, in those years Pierre Loti used to come this cafe often, named as “Rabia Kadın Kahvesi” in those years, and write his novel “Aziyade”
+        overlooking Golden Horn.Today, this district, still kept as an original Turkish settlement by being restorated, consists of many spaces serving
+        as a tourist facility.The district is also mentioned in Evliya Çelebi’s Seyahatname ( travel book) as “Idris Köşkü Mesiresi”. There are many
+        historical artifacts and building in Pierre Loti, commonly visited by tourists and travelers who come to Istanbul in 19th century. Double-epigraphed,
+        wooden “Kaşgari Tekkesi”, dated 1813 and located on the way from the tourist facility to Eyüp Mosque, is one of these structures.Another
+        important Persian-epigraphed building, at the right corner of the service area and located at a trivium, is “Çolak Şeyh Hasan Türbesi.”
+        A part of this building is çilehane(çilehane is a place in which a dervish undergoes and suffers to strength his patience.) and Çolak Hasan
+        Dede’s grave is here too.The historical building, on the same way with “Çolak Şeyh Hasan Tekkesi”, is “Sıbyan Mektebi” or a nursery school
+        in today’s context. (Today, that school is used as a prayer room that belongs to the service area.)The grave of a whirling dervish called
+        “Iskender Dede”, passed away in 1589,takes place in Pierre Loti Tourist Facility located forefront Sıbyan Mektebi that was built by Ottoman
+        history writer İdris-i Bitlisi.One of the two water wells infront of Iskender Dede is the famous “Dilek Kuyusu” (a water well for wishes)
+        Evliya Çelebi writes about this water well in his Seyahatname and says: the people who look in to the well, can see their own wishes they
+        keep in their hearts. There is also a drinking fountain next to the frontage of Sıbyan Mektebi.In addition, a cistern, supposed to be built
+        in Byzantine period, survives in the middle of the garden area in the tourist facility.</string>
+    <string name="taksim">Taksim</string>
+    <string name="taksim_desc">Taksim Square is the most known modern city center of Istanbul. Many hotels and restaurants are in or near the Square 
+        and on Istiklal Street, and there is a local bus terminal for public transportation and the main subway station. Istiklal pedestrian street 
+        has many bars, night clubs and movie theaters therefore it\'s always busy with young people almost for 24 hours a day. The Square is also 
+        the meeting place to celebrate New Year\'s Eve, parades, public concerts and other shows.
+The most important monument in Taksim Square is the Independence Monument (Istiklal Aniti in Turkish), standing at the beginning of Istiklal
+        pedestrian street. This is also the turnaround point for the old tram which is the only vehicle permitted on Istiklal Street beside 
+        official (police and government) cars.
+The monument was made by the Italian sculptor Pietro Canonica and opened in 1928, it describes Atatürk, founder of the Republic, as a military commander-in-chief and a statesman. Since it's opening, the monument became the center spot of official ceremonies in Istanbul.</string>
+    <string name="haydarpasa">Haydarpaşa</string>
+    <string name="haydarpasa_desc">Haydar pasa is Turkey\'s largest and most magnificent railway station which was built in the early 20th century by the German
+        architects Otto Ritter and Helmuth Cuno. A monument to the close Turkish - German relations of the time, the station is in neo-renaissance style and has
+        a U-plan. The inauguration ceremony took place on 19 August 1908, just after the proclamation of the Second Constitution.The façade is covered in textured
+        sandstone, and the main façade overlooking Kadiköy Bay rests on a foundation of 1100 timber piles. The steep pitched roof is slated, and the interior is
+        decorated with trailing foliage cartouches and garlands, and stained glass window. The ceiling of the circular room at the base of the southeast tower
+        has ribbed vaults, and the upper landings have groin vaults. Flights of marble steps lead up from the quay to the monumental façade flanked by circular
+        turrets with conical roofs, clock tower rising in the form of a crest at the center, baroque decoration, balconies, molded cornices, and pilasters.
+This fantastic station building welcomes those arriving in Istanbul from Anatolia by train, and is the last sight of this enchanting city for those
+        leaving. Since 1908 Haydarpasa Station has witnessed many memorable events, both tragic and joyful. During World War I troops boarded trains
+        for the front from here, many never to return, and in 1917 it was badly damaged in a bomb attack. Crowds welcomed Mustafa Kemal Atatürk here
+        on many occasions when he arrived from Ankara.
+Once upon a time, passengers of the Orient Express arriving at Istanbul from Europe and those who wanted to continue towards Baghdad, had to take a boat
+        across the Bosphorus and board the train from Haydarpasa station.
+With the increase in road transport and air travel, Haydarpasa Station has lost its former importance but it is still a landmark on the Asian side of the city,
+        together with the nearby Selimiye Barracks (of Florence Nightingale fame) and Haydarpasa Medical School.Important note: The train station is not operating
+        anymore due to the renovation of railroad tracks. There are plans to convert it into a hotel or some other venue.</string>
+    <string name="kiz_kulesi">Kizkulesi</string>
+    <string name="kiz_kulesi_desc">Kizkulesi is located off the coast of Salacak neighborhood in Üsküdar district, at the southern entrance of the Bosphorus.
+        It literally means "Maiden's Tower" in Turkish. The name comes from a legend: the Byzantine emperor heard a prophecy telling him that his beloved
+        daughter would die at the age of 18 by a snake. So he decided to put her in this tower built on a rock on the Bosphorus isolated from the land thus
+        no snake could kill her. But she couldn\'t escape from her destiny after all, a snake hidden in a fruit basket brought from the city bit the princess
+        and killed her.
+Another legend wrongly mentions Hero and Leander in the tower, therefore some people wrongly call it "Leander's Tower", a sad love story told by Ovidius:
+        Hero was one of the priestess of Aphrodite living in the tower. One day she left the tower to attend a ceremony in the temple where she met Leandros
+        and they fall in love with each other. Leandros swam to the tower every night to visit his love, meanwhile she was holding a torch to guide him
+        in the dark waters towards her in the tower. But on a stormy night Leandros couldn\'t see the light because it was put out by the winds, and he swam
+        all night loosing his way until he was drowned. Hero, seeing that her lover died, she also jumped into the water and suicided. Some people narrate
+        this love story as it was happened on the Bosphorus, but in fact it\'s a legend from the Dardanelles, when Leandros was swimming to Hero between
+        Abydos (today\'s Eceabat) and Sestus (today\'s Canakkale city).
+Kizkulesi on the BosphorusKizkulesi is dating back to the 5th century BC when it was built by the Athenian general Alcibiades on a rock at the entrance of
+        the Bosphorus for the surveillance of the waterway. A chain was pulled from the land to the tower to make it a checkpoint and customs area for the
+        ships going through. After several restorations in wood and stone, Emperor Alexius Comnenos built a strong defense tower in the 12th century AD
+        calling it Arcla, meaning "Small Tower". The tower was used as a lighthouse and control tower also during the Ottoman period after the Conquest
+        of Constantinople. Final restoration was done in 1998 and opened as a restaurant after spending around 3million US dollars.
+The tower was featured in one of the James Bond movies in 1999; "The world is not enough", where the terrorists placed a nuclear submarine underneath the tower
+        to be exploded in the heart of the city and where "M" (Judi Dench) was imprisoned by an oil tycoon's daughter (Sophie Marceu) which Bond (Pierce Brosnan)
+        had to kill her.
+Today, Kizkulesi is a very popular and classy restaurant and cafeteria-bar. It offers 360 degree views of the Bosphorus and the old city, especially at night.
+        There are several shuttle boats going to the tower at certain times from Kabatas neighborhood on the European side of Istanbul and from Salacak
+        neighborhood on the Asian side. It's also a popular place for summer time weddings. The tower is closed on Mondays.
+
+Kizkulesi
+Salacak - Üsküdar
+Tel: +90 216 3424747</string>
+    <string name="fest_kukla">İstanbul Kukla Festivali</string>
+    <string name="fest_desc_kukla">İstanbul\'da sanatın eğlenceye dönüştüğü Kukla Festivali, bu yıl 17. yaşını kutladı.  Dünyanın en seçkin kuklalarını
+        ve kukla sanatçılarını şehirde buluşturan festival kukla sanatının yaygınlaşması için elinden geleni yapıyor.  Bugün artık dünyanın saygın
+        festivallerinden biri olarak kabul gören İstanbul Uluslararası Kukla Festivali, Mayıs ayında gerçekleşiyor.
+
+</string>
+    <string name="fest_dans">İstanbul Uluslararası Dans Festivali</string>
+    <string name="fest_desc_dans">Amerika\'dan Çin\'e, Avrupa\'dan Asya\'ya dünyanın dört bir tarafından 5.000 dans severin katıldığı dans şöleni İstanbul
+        Uluslararası Dans Festivali, her yıl Nisan aylarında farklı mekanlar da 6 gün boyunca profesyonel dansçıları İstanbul’da ağırlıyor. 4.yılını
+        kutlayan dans festivalinin bu yıl ki programı da çok renkli.
+
+</string>
+    <string name="fest_film">İstanbul Film Festivali</string>
+    <string name="fest_desc_film">1982 yılından buyana uluslararası boyutta her sene düzenlenen İstanbul Sinema Günleri, İKSV (İstanbul Kültür ve Sanat Vakfı)
+        tarafından her sene Nisan ayı içinde çeşitli sinema salonlarında gerçekleştiriliyor. Film festivali kapsamında hem ulusal hem de uluslararası
+        yarışmalarda barındıran festival, 33 yıldır aralıksız düzenleniyor. Yaklaşık iki hafta süren festivalde Türk Klasikleri, Yıllara Meydan Okuyanlar,
+        Genç Ustalar, Ustalara Saygı, Dünya Festivallerinden, Uyarlamalar, Sinema ve Sanatlar, Belgesel Çılgınlığı ve Çocuk Menüsü gibi bölümlerle
+        ülke sinemalarına ayrılan bölümler yer almakta, belgesel filmler ve canlandırma filmleri de gösterildiği festival kapsamında çeşitli sergiler
+        ve toplantılar da düzenlenmektedir.
+
+</string>
+
+    <string name="fest_sahaf">İstanbul Sahaf Festivali (Beyoğlu Sahaf Festivali)</string>
+    <string name="fest_desc_sahaf">Beyoğlu Belediyesi tarafından her sene yapılan kitap festivali, Beyoğlu Sahaf Festivali, her yıl Eylül ayında Tepebaşı,
+        TRT binasının otoparkında gerçekleştirilmektedir. İstanbul ve Türkiye’nin önemli sahaf dükkânlarının stantlarına yer verilen etkinlikte kitap
+        dışında eski pikap, poster, dergi gibi pek yayınlarda yer alıyor.
+
+</string>
+
+    <string name="fest_shopping">İstanbul Shopping Fest</string>
+    <string name="fest_desc_shopping">Her yıl geleneksel olarak düzenlenen İstanbul Shopping Fest, alışveriş ile eğlenceyi birleştiriyor.
+        Her yıl Haziran ayında düzenlenen festivalin en güzel yanı, alışveriş saatinin hiç bitmemesi&#8230; Gece yarısına kadar alışveriş
+        imkanı sağlayan bu etkinliğin kapsadığı alanda oldukça büyük, her semtte renkli gösteri ve indirimlerle düzenlene alışveriş festivali,
+        İstanbul’un tarihi alışveriş merkezi Kapalıçarşı’dan tutun da İstanbul’un gözde lüks Alışveriş Merkezlerine kadar pek çok mekanda düzenleniyor.
+
+</string>
+
+    <string name="fest_tasarım">İstanbul Tasarım Bienali</string>
+    <string name="fest_desc_tasarım">İstanbul’un bir nevi sanat festivali olan Bienal, festivallerin en yenisi. Bu yıl ikincisini düzenlenen İstanbul
+        Tasarım Bienali, her yıl sürekli olarak farklı tema ve sanatçılarla düzenleniyor. Bu yıl Ekim ayında gerçekleşen etkinliğin seneye, tahmini yine
+        bu ay gerçekleşeceği düşünülüyor. Hem Asya hem de Avrupa yakasında kentin farklı bölgelerine yayılan etkinliğin amacı şehri daha çok sanatla buluşturmak.
+
+</string>
+
+    <string name="fest_caz">İstanbul Caz Festivali</string>
+    <string name="fest_desc_caz">İstanbul Kültür ve Sanat Vakfı (İKSV) Tarafından her yıl düzenlenen caz festivali, şehri; caz, funk ve soul türlerin
+        en iyileri ile buluşturuyor. İstanbul Kültür Sanat Vakfı’nın en genç festivali olan İstanbul Caz Festivali, 1994 yılından bu yana düzenleniyor.
+        Her yıl Temmuz ayının ilk yarısında İstanbul’un değişik konser ve etkinlik mekânlarında gerçekleştirilen İstanbul Caz Festivali, programında
+        caz müziğinin yanı sıra pop, rock ve dünya müziği gibi farklı tarzlara da yer veriyor.
+
+    </string>
+
+    <string name="fest_chill">Chill-Out Festival</string>
+    <string name="fest_desc_chill">2006 yılından beri Lounge müzikle İstanbulluları buluşturan Chill-Out Festivali, her yıl Mayıs ayında doğa ile müziği
+        sanatseverle buluşturuyor. Piknik tadında çimlere yayılarak gerçekleştirilen festival; caz’dan soul ve funk’a, house’dan indie’ye uzanan geniş
+        bir seçkiyle takvimini düzenliyor. Toplam 2 gün süren Chill-Out, bugüne kadar alışılagelmiş festival standartlarının bir adım daha ötesinde.
+
+</string>
+
+    <string name="fest_bagimsiz_filmler">!f Bağımsız Filmler Festivali</string>
+    <string name="fest_desc_bagimsiz">Her yıl temsı değişen Bağımsız Filmler Festivali, sinemanın en iyi yönetmen ve oyuncularıyla İstanbulluları
+        buluşturuyor. 14 yıldır aralık vermeden düzenlenen festival İstanbul’da Şubat ayında toplam 12 gün sürüyor. İstanbul dışında Ankara’da ve
+        İzmir'de düzenlenen festival, Cinemaximum Sinemalarında Şubat ve Mart aylarında izleyicisiyle buluşuyor.
+
+</string>
+
+    <string name="fest_opera">Uluslararası İstanbul Opera Festivali</string>
+    <string name="fest_desc_opera">2010 yılında, İstanbul’un “2010 Avrupa Kültür Başkenti” seçilmesiyle başlatılan İstanbul Opera Festivali,
+        başladığı tarihten itibaren;  programı ve içeriği ile her yaştan, her kesimden seyirciye ulaşmayı hedeflemiş,  kentin sahip olduğu
+        tarihsel mekânlarıyla sanatseverleri buluşturmuş önemli festivallerimizdendir. Her yıl Türk ve dünya opera alanındaki önde gelen isimleri
+        ve toplulukları ağırlayan festival Haziran ayında gerçekleştirilmektedir.
+
+</string>
+
+    <string name="fest_dogaclama">İstanbul Uluslararası Doğaçlama Festivali</string>
+    <string name="fest_desc_dogaclama">İstanbul\'da 4. kez gerçekleşen, tiyatro tutkunlarının ilgisini çekecek festival,
+        her yıl Mayıs aylarında gerçekleşmektedir. Fiziksel doğaçlama, sözcükler olmadan neler söylenebilir gibi pek
+        çok farklı konularla  ünlü eğitmenleri İstanbullularla buluşturan festivali takip etmek istenyenler için
+        www.kadikoyterminal.com adresinden bilgi sahibi olabilir.
+
+</string>
+
+    <string name="fest_coke">Rock\'n Coke</string>
+    <string name="fest_desc_coke">2003 yılında ilkinin düzenlenmesiyle başlayan rock müzik festivali artık daha kapsamlı ve Türkiye\'de
+        yapılan senelik müzik festivallerinin en büyüğüdür. Her yıl önemli sanatçı ve grupları ağırlayan Rock’n Coke, Coca Cola
+         sponsorluğunda Çatalca’daki İstanbul Hazarfen Havaalanı’nda iki yılda bir gerçekleşiyor. 3 gün süren takvimi ve özel kamp
+        alanlarıyla gençleri müzikle buluşturan festival bu zaman kadar Travis, Limp Bizkit, Muse, Placebo, The Cure, Linkin Park gibi
+        pek çok gruba ev sahipliği yaptı.
+
+</string>
+
+    <string name="fest_eksi">Ekşi Fest</string>
+    <string name="fest_desc_eksi">Kutsal bilgi kaynağı Ekşi Sözlük\'ün 2011\'den beri her sene gerçekleştirdiği Ekşi Fest, her yıl
+        Mayıs\'ta gerçekleşmektedir. Türk müziğinin başarılı isimlerinden tutunda yabancı iyi grub ve sanatçılarla renklendirdikleri
+        Eksi Fest'de sadece müzik değil platform dijitalde olunca sosyal medya gibi farklı aktiviterlele de gün boyu konuklarını eğlendiriyor.
+
+</string>
+
+    <string name="fest_muzik">İstanbul Müzik Festivali</string>
+    <string name="fest_desc_müzik">İstanbul Kültür Sanat Vakfı (İKSV) tarafından Borusan Holding sponsorluğunda düzenlenen
+        İstanbul Müzik Festivali, 2006 yılından beri gerçekleştirilmekte, her yıl farklı temalarla düzenlenen festival mayıs
+        ve haziran aylarında gerçekleşiyor.
+
+</string>
+
+    <string name="fest_fanta">Fanta Gençlik Festivali</string>
+    <string name="fest_desc_fanta">Her yıl düzenlenerek artık geleneksel hale gelen Fanta’nın sponsorluğunda düzenlenen festival
+        sadece İstanbul’u değil, Türkiye’nin birçok şehrinde de gerçekleşiyor. Her yıl ünlü iki ve üç sanatçının sahne aldığı
+        festival gündüzden akşama kadar sürüyor. Şehrin en hareketli festivali olan Fanta Gençlik Festivali çeşitli oyun alanları,
+        eğlenceli aktiviteleri ve yarışma programlarıyla yaz aylarında gerçekleşiyor.
+
+</string>
+
+    <string name="fest_one_love">One Love Festivali</string>
+    <string name="fest_desc_one_love">Türkiye’nin en uzun soluklu şehir festivali One Love Festival\'i bugüne kadar 80’den fazla
+        grubu ve 1.500’den fazla sanatçıyı 200 bini aşkın müzikseverle buluşturdu. Düzenli olarak gerçekleşen festival, her yıl
+        Haziran aylarında gerçekleşmektedir. Festivalcilerin merakla beklediği One Love bu yılda dopdolu programla müzik
+        tutkunlarını eğlendirecek.
+
+</string>
+
+    <string name="fest_igf">İstanbul Gençlik Festivali</string>
+    <string name="fest_desc_igf">Sivil toplum kuruluşları, kamu kurumları, kültür-sanat etkinlikleri, robotik atölyeler,
+        spor aktiviteleri, söyleşi ve konser etkinliklerini bir araya getiren Türkiye’nin en büyük gençlik festivali İGF 2018,
+        Türk Telekom ve İstanbul Büyükşehir Belediyesi ana sponsorluğunda 2 Mayıs Çarşamba günü başlıyor. Seni sonsuz
+        eğlenceye ve bolca deneyim kazanmaya davet eden etkinlik Avrasya Gösteri ve Sanat Merkezi’nde gerçekleşecek ve
+        6 Mayıs’ta son bulacak.</string>
+
+    <string name="mall_of_istanbul">Mall of Istanbul</string>
+    <string name="mall_desc_of_istanbul">Mall of Istanbul is one of the biggest malls of Turkey and hosts the leading brands
+        in the world attracting attention as the most functional shopping center of Turkey with its concept and the different
+        units it accommodates.
+
+</string>
+
+    <string name="mall_istinye">Istinye Park</string>
+    <string name="mall_desc_istinye">Istinye Park shopping mall features 300 shops and the first IMAX Theater.
+
+</string>
+
+    <string name="mall_zorlu">Zorlu Center</string>
+    <string name="mall_desc_zorlu">Zorlu Center is the new meeting venue in Istanbul. Zorlu Center features a
+        luxurious shopping center, a center for performance arts, a 5-star hotel, offices, and residences.</string>
+
+    <string name="mall_kanyon">Kanyon Istanbul</string>
+    <string name="mall_desc_kanyon">Turkey’s most distinguished shopping mall features 160 stores.
+
+</string>
+
+    <string name="mall_palladium">Palladium</string>
+    <string name="mall_desc_palladium">The Palladium in Istanbul is known for its giant glass sphere and is one
+        of the most iconic sites in the city, with its stores stretching across five floors.</string>
+
+    <string name="mall_trump">Trump Towers Mall</string>
+    <string name="mall_desc_trump">Trump Towers shopping mall in Istanbul, the first venture to bear the Trump
+        name in Europe, opened on 19th April 2012.</string>
+
+    <string name="mall_forum">Forum Istanbul</string>
+    <string name="mall_desc_forum">Forum Istanbul shopping center is Europe’s largest shopping center</string>
+
+    <string name="mall_cevahir">Istanbul Cevahir</string>
+    <string name="mall_desc_cevahir">Istanbul Cevahir is the largest shopping mall in Europe, and the second
+        largest shopping mall in the world.</string>
+
+    <string name="mall_astoria">Astoria Istanbul Shopping Center</string>
+    <string name="mall_desc_astoria">Astoria Istanbul Shopping Center brings together leading Turkish and
+        international brands</string>
+
+    <string name="mall_nisantasi">City’s Nisantasi</string>
+    <string name="mall_desc_nisantasi">City’s features 150 stores, cinema’s, Top local and global brands,
+        cafes and restaurants.</string>
+
+    <string name="mall_sapphire">Istanbul Sapphire</string>
+    <string name="mall_desc_sapphire">Enjoy breathtaking views of Istanbul from your garden 200 meters
+        above street level</string>
+
+    <string name="mall_akmerkez">Akmerkez</string>
+    <string name="mall_desc_akmerkez">Akmerkez the most award winning shopping center of Turkey</string>
+
+    <string name="mall_aqua">Aqua Florya</string>
+    <string name="mall_desc_aqua">Aqua Florya Shopping and Life Center opened its doors on 04th October 2012 to their
+        customers with a brand new concept that aims to change the vision about ordinary shopping centers.
+        The most desirable point of Aqua Florya, which combined entertainment and shopping under one roof,
+        is the world's biggest thematic aquarium, called Istanbul Akvarium. Also delicious tastes of diverse
+        kitchens, cafes and restaurants with sea view and a big amphi theater for various events, is its
+        specialization.</string>
+    <string name="mall_vialand">Vialand</string>
+    <string name="mall_desc_vialand">Set out for a day packed with family fun at Vialand, a theme park and Istanbul
+        in Istanbul\'s Eyup district. Sprawling over grounds the size of 100 football fields, Vialand boasts
+        exciting thrill rides and kid-friendly attractions. After leaving the park, spend some time shopping at
+        Florya Aqua Shopping Mall.</string>
+
+    <string name="kebap">Kebap</string>
+    <string name="kebap_desc">Kebap – together with döner, this is probably the first street food that comes to any tourist’s
+        mind when asked to name one. Kebap actually means small pieces of broiled or roasted meat — generally cow, sheep or chicken.
+        Excellent dishes you may want to try out are İskender Kebap, Adana Kebap, Patlıcan Kebap and Şiş Kebap.</string>
+
+    <string name="doner">Doner</string>
+    <string name="doner_desc">Döner – this tightly packed meat roasted on a large vertical skew is the basis for fast-food snacks
+        (or even full meals) such as Pilav Üstü Döner, İskedender and Dürüm. Although you can find these half-outside/half-inside
+        eateries almost anywhere, for the biggest concentration head to the beginning of Istiklal Caddesi in Taksim.</string>
+
+    <string name="borek">Borek</string>
+    <string name="borek_desc">Börek – a flaky pastry consisting of several thin layers, often with a specific shape and/or filling.
+        You’ll see locals entering these tiny shops for a quick breakfast or lunch. Among my favorites are ıspanaklı börek
+        (with spinach filling), peynirli börek (with cheese filling), kıymalı börek (with minced meat filling) and patatesli
+        börek (with potato filling). If you prefer it rather plain, you can’t go wrong with su böreği.</string>
+
+    <string name="pide">Pide</string>
+    <string name="pide_desc">Pide – a slightly leavened, flat pizza like bread. They again come in different styles, with
+        Kaşarlı Pide (melted cheese) and Sucuklu Pide (melted cheese and spicy sausage) among the most popular.</string>
+
+    <string name="lahmacun">Lahmacun</string>
+    <string name="lahmacun_desc">Lahmacun – a Turkish-style pizza. A very thin oval piece of pide, with ground meat, onions,
+        pepper paste, sometimes tomato, pepper, parsley, and spices. It is often served with a salad and a few pieces of
+        lemon in a side dish. You’ll see locals topping the pizza with the salad, sprinkling it with lemon and making a roll out of it.</string>
+
+    <string name="misir">Mısır</string>
+    <string name="misir_desc">Mısır – freshly boiled or grilled corn on the cob, often sprinkled with salt or spices.
+        This popular snack is almost exclusively sold during the summer months by the real street sellers with their push-cars.</string>
+
+    <string name="kestane">Kestane</string>
+    <string name="kestane_desc">Kestane – due to the lack of corn in winter, the street vendors mentioned above shift
+        to roasted chestnuts in winter time.</string>
+
+    <string name="balik_ekmek">Balık Ekmek</string>
+    <string name="balik_ekmek_desc">Balık ekmek – literally translated ‘fish bread’. And that’s basically what it
+        is — fish, grilled or fried in front of your eyes and stuffed inside a large piece of bread. Fans of this
+        fast-food can have a blast in Eminönü, on the shore next to the Galata Bridge.</string>
+
+    <string name="simit">Simit</string>
+    <string name="simit_desc">Simit – a crisp, ring-shaped, savory roll covered with sesame. Sold by street sellers
+        with glass-fronted push-cars. There are two main versions: sokak simit (sold on the streets and very crispy)
+        and pastane simit (sold in shops and softer).</string>
+
+    <string name="acma">Açma</string>
+    <string name="acma_desc">Açma – a ring-shaped savory bun — a Turkish-style dougnut if you will. It’s soft
+        but also a bit oily.</string>
+
+    <string name="pogaca">Poğaça</string>
+    <string name="pogaca_desc">Poğaça – a flaky, savory pastry. You can go for the plain one (sade) or choose
+        one with a filling: peynirli (cheese), kıymalı (minced meat), or my personal favorite — zeytinli (sliced black olives)</string>
+
+    <string name="cikofte">Çiğ Köfte</string>
+    <string name="cikofte_desc">Çiğ köfte – originally a dish made of raw ground meat, pounded wheat and red pepper.
+        It’s a delicacy, but now only found at home. Commercially sold çiğ köfte is no longer allowed to contain
+        raw meat, but it’s still something you should try out.</string>
+
+    <string name="midye_dolma">Midye Dolma</string>
+    <string name="midye_dolma_desc">Midye dolma – stuffed mussels. If you’re a fan, you may want to prefer eating
+        those in a real restaurant.</string>
+
+    <string name="kokorec">Kokoreç</string>
+    <string name="kokorec_desc">Kokoreç – grilled sheep intestines with an almost industrial amount of spices,
+        roasted on a skewer. A very popular snack after a night out and (too) many drinks. So which skewer has
+        the döner and which one the intestines? Luckily for us, the kokoreç skewer is always positioned horizontally.</string>
+
+    <string name="kuru">Kuru Fasulye</string>
+    <string name="kuru_desc">What is so special about haricot beans? Well you are right, it doesn’t sound very festive.
+        But here it comes. Such a simple ingredient can have such a velvety texture if cooked expertly with other good
+        quality ingredients — butter, tomatoes, and tomato paste. It can be cooked with or without meat or even with
+        dried spiced thin slices of beef called pastırma.
+
+The whole deal of having kuru fasulye with pilav (plain rice) and pickles makes me feel like I am a part of this culture
+        and tradition. The best places to have this experience are the restaurants across Süleymaniye Mosque.</string>
+
+    <string name="kahvalti">Turkish Breakfast</string>
+    <string name="kahvalti_desc">The breakfast habits of Turks are slightly different than the Europeans’.
+        For starters, tea replaces the coffee. Also sliced tomatoes and/or cucumbers are a must for a Turkish breakfast.
+        The rest of the elements are similar. The most common type of bread is white bread. However, in an attempt
+        to eat healthier, different kinds of grain breads like rye are commonly available these days.
+
+White cheese (similar to feta), old cheese (kaşar peyniri), black and/or green olives (zeytin), butter, thick cream
+        (kaymak), honey, jam, an omelet or boiled eggs (yumurta) are regular players of the game.
+
+The surprise ingredients are sucuklu yumurta and börek. These two are the most common dishes served to spoil the guests.
+        Sucuk is dried sausage made of ground beef with garlic and a variety of spices like red pepper, cumin and sumac.
+        And cooked on a pan mostly with eggs it becomes a fatty yet delicious extravaganza. Börek is made of thin sheets
+        of dough, filled with cheese, minced meat and/or vegetables, wrapped and baked or cooked.
+
+I strongly suggest to have a Turkish breakfast on the coastline of the Bosphorus in the areas like Bebek, Rumelihisarı.
+        The establishments are in a mighty competition which plays in the cards of the customers. You simply can’t
+        go wrong in the area.</string>
+
+    <string name="menemen">Menemen</string>
+    <string name="menemen_desc">Menemen is a delicious Turkish style omelet. Roasted onions and peppers are boiled
+        thoroughly with tomatoes and finally mixed with eggs, herbs, parsley, pepper and grounded red pepper.
+        A simple, cheap and easy to make dish, yet with an addictive taste. Turks order this mostly for breakfast.
+
+The dish takes its name after the Menemen district of İzmir in the Aegean Region. Tomato, the main ingredient,
+        was first grown in İzmir in the early 1920s. This gives an idea about the age of the famous dish. Since
+        it is a common dish, it is only natural that it has several derivations with extra ingredients such as
+        cheese, grounded meat, mushrooms, sucuk, sausages, even chicken or eggplants.
+
+Places to order this delicious dish are Lades Muhallebi (Beyoğlu), Sütiş (Beyoğlu), Bebek Kahve (Bebek), Mehtap
+        Cafe (Emirgan), and Kale Çay Bahçesi (Rumelihisarı).</string>
+
+    <string name="meze">Meze</string>
+    <string name="meze_desc">Meze refers to cold starters rather than a full course. Restaurants that are experts
+        in mezes are called meyhane. A meyhane is a traditional restaurant which serves alcoholic beverages with
+        mezes and traditional foods. Most mezes are served as appetizers in the restaurants.
+
+In most cases, the waiter will come to your table and present all the mezes available on a big plate for you to
+        choose from. Each member of the dinner party will select one or more. The mezes are then put in the
+        middle of the table and shared. Toasted bread complements the various dishes.</string>
+
+    <string name="manti">Mantı</string>
+    <string name="manti_desc">Often called Turkish ravioli, mantı is a hot dish served with cold yogurt and garlic.
+        You can think of mantı as some kind of dumplings consisting of the dough and its filling.
+        In the classical Anatolian (Kayseri) style, the dough is made of water, flour and salt. Some add eggs
+        to increase the flavor. The thinner the dough and the smaller the wrapped pieces are, the more masterful
+        the cook is. The filling contains grounded beef or lamb, onion, salt and pepper.
+
+These days you can order mantı with salmon, spinach, or even chicken. Whether mantı is boiled in water, baked
+        with butter, or boiled in tomato sauce, it is served with yogurt, garlic and tomato sauce cooked with
+        butter. Adding some spices is very common. My regular choice is a combination of grounded red pepper, mint and sumac.
+
+Some of the pleasing places to order mantı are Casita Mantı Nişantaşı (Şişli), Fıccın (Beyoğlu), Emek Mantı
+        (Yeniköy), Bodrum Mantı (Arnavutköy), and Aşkana (Ulus).</string>
+
+    <string name="kunefe">Künefe</string>
+    <string name="kunefe_desc">Künefe is a traditional Arab cheese pastry. The unsalted cheese in between the
+        two layers of kadayıf is the essence. Kadayıf are thin fibers of dough, a simple mix of water and flour.
+        It is served warm because it is freshly baked and soaked in syrup.
+
+This Turkish dessert has an amber color and is dressed with the grounded pistachio on top. The cheese melts
+        inside and when you take a bite you sense different textures, such as the soft cheese and the crusty dough.
+        I also like the way the cheese sooths the heavy sugary taste.</string>
+
+    <string name="baklava">Baklava</string>
+    <string name="baklava_desc">Baklava is the finest example of the Turkish dessert passion.
+        The ingredients (phyllo dough, nuts and syrup) are simple, yet craftsmanship is most definitely required.
+        The thinness of the dough layers is crucial. The nuts, walnuts, hazelnuts or pistachios,
+        vary from region to region in Turkey.
+
+The nuts are spread in between the layers of phyllo dough. Then the pile of dough is dressed with butter,
+        baked and finally soaked in syrup. You need to pick a good place to eat your baklava since it
+        definitely has to be fresh and masterfully made. There are some accomplished places to eat baklava,
+        like Güllüoğlu or Köşkeroğlu.</string>
+
+
+</resources>
