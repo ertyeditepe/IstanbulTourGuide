@@ -1,5 +1,6 @@
 package com.example.etoo.istanbultourguide;
 
+import android.app.ActionBar;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -9,6 +10,7 @@ import android.widget.TextView;
 public class DescPageActivity extends AppCompatActivity {
     ImageView itemImage;
     TextView itemDescription;
+    ActionBar actionBar = getActionBar();
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -27,6 +29,7 @@ public class DescPageActivity extends AppCompatActivity {
 
         itemDescription.setText(extras.getString("description"));
 
+        actionBar.setTitle(extras.getInt("title"));
 
     }
 }

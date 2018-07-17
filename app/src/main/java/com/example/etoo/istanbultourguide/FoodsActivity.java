@@ -52,7 +52,7 @@ public class FoodsActivity extends AppCompatActivity {
 
                 descPage.putExtra("image", mItem.getImageResourceId());
                 descPage.putExtra("description", mItem.getItemDescription() );
-
+                descPage.putExtra("title", mItem.getItemTitle());
                 startActivity(descPage);
 
             }
